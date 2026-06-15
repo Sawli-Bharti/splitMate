@@ -43,7 +43,8 @@ public class SecurityConfig {
         CorsConfiguration configuration = new CorsConfiguration();
 
         configuration.setAllowedOrigins(List.of(
-                "http://localhost:5173"
+                "http://localhost:5173",
+                "https://split-mate-tan.vercel.app/"
         ));
 
         configuration.setAllowedMethods(List.of(
