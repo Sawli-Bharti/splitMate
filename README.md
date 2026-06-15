@@ -1,7 +1,8 @@
 # SplitMate
 
 SplitMate is a Splitwise-inspired expense sharing platform that helps users manage group expenses, track balances, settle debts, and communicate with group members in real-time.
-
+## live Demo
+https://split-mate-tan.vercel.app/
 ## Features
 
 ### Authentication
