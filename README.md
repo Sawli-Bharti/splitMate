@@ -159,10 +159,49 @@ JWT_SECRET=your_jwt_secret
 
 ---
 
+## Deployment Architecture
+
+Frontend:
+
+Vercel
+
+Backend:
+
+Render
+
+Database:
+
+Railway MySQL
+
+Containerization:
+
+Docker
+
+## Current Status
+
+Completed Modules:
+
+Authentication
+Group Management
+Expense Management
+Equal Split
+Unequal Split
+Percentage Split
+Share-Based Split
+Balance Tracking
+Settlement Management
+Dashboard Analytics
+Real-Time Group Chat
+JWT Security
+Docker Deployment
+Cloud Deployment
+
+## Project Status:
+Production-ready MVP completed and deployed.
+
 ## Future Improvements
 
 * Notification System
-* Docker Support
 * Cloud Storage
 * Advanced Analytics
 * Mobile Application
