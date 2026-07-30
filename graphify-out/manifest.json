@@ -1,0 +1,887 @@
+{
+  "backend/splitmate/mvnw": {
+    "mtime": 1781354785.5742352,
+    "ast_hash": "ab50dd89da7da2346b28003352eeeeeb",
+    "semantic_hash": "ab50dd89da7da2346b28003352eeeeeb"
+  },
+  "backend/splitmate/pom.xml": {
+    "mtime": 1781356652.524686,
+    "ast_hash": "2823e4bb186d825e53015fd63e83a8d6",
+    "semantic_hash": "2823e4bb186d825e53015fd63e83a8d6"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/SplitmateApplication.java": {
+    "mtime": 1781354785.6469915,
+    "ast_hash": "cdcc989fe1863804f436e18f9897e3b4",
+    "semantic_hash": "cdcc989fe1863804f436e18f9897e3b4"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/auth/controller/AuthController.java": {
+    "mtime": 1781377194.7640553,
+    "ast_hash": "8422a7fd32e8dae0a43eb6fa766c5eb3",
+    "semantic_hash": "8422a7fd32e8dae0a43eb6fa766c5eb3"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/auth/dto/AuthResponse.java": {
+    "mtime": 1781357328.9226089,
+    "ast_hash": "422a8523c1edca77e5339e1cfa17517d",
+    "semantic_hash": "422a8523c1edca77e5339e1cfa17517d"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/auth/dto/CurrentUserResponse.java": {
+    "mtime": 1781371791.2978148,
+    "ast_hash": "82dfc43f366ab2f3f15ac52aa7526692",
+    "semantic_hash": "82dfc43f366ab2f3f15ac52aa7526692"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/auth/dto/LoginRequest.java": {
+    "mtime": 1781371792.6417215,
+    "ast_hash": "bfa584ed9928f96fcf7fae0479966466",
+    "semantic_hash": "bfa584ed9928f96fcf7fae0479966466"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/auth/dto/RegisterRequest.java": {
+    "mtime": 1781371792.3038392,
+    "ast_hash": "1d0165cfe1f7a67d240785ccb533cdab",
+    "semantic_hash": "1d0165cfe1f7a67d240785ccb533cdab"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/auth/service/AuthService.java": {
+    "mtime": 1781371788.2553961,
+    "ast_hash": "e57d85cae89c10b18729454671e93d8f",
+    "semantic_hash": "e57d85cae89c10b18729454671e93d8f"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/auth/service/impl/AuthServiceImpl.java": {
+    "mtime": 1781371789.7366793,
+    "ast_hash": "a3253ddcc7d3087f0cc76f3faf0712ea",
+    "semantic_hash": "a3253ddcc7d3087f0cc76f3faf0712ea"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/balance/controller/BalanceController.java": {
+    "mtime": 1781381714.2981853,
+    "ast_hash": "187bc83b399b7272a0785c8d0d170da0",
+    "semantic_hash": "187bc83b399b7272a0785c8d0d170da0"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/balance/dto/BalanceResponse.java": {
+    "mtime": 1781381713.3604488,
+    "ast_hash": "e81b280d0d97ae926cbf79f1a44776f9",
+    "semantic_hash": "e81b280d0d97ae926cbf79f1a44776f9"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/balance/dto/BalanceSummaryResponse.java": {
+    "mtime": 1781381713.762924,
+    "ast_hash": "6ae886e16b0adde8b656974ea787bfed",
+    "semantic_hash": "6ae886e16b0adde8b656974ea787bfed"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/balance/entity/Balance.java": {
+    "mtime": 1781379479.6326127,
+    "ast_hash": "43ade9410f55c1ca84f02e4def405741",
+    "semantic_hash": "43ade9410f55c1ca84f02e4def405741"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/balance/repository/BalanceRepository.java": {
+    "mtime": 1781381714.6680403,
+    "ast_hash": "451c3c7b21de7822ae76c5b2680fb7d3",
+    "semantic_hash": "451c3c7b21de7822ae76c5b2680fb7d3"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/balance/service/BalanceService.java": {
+    "mtime": 1781381714.8566606,
+    "ast_hash": "24a5fac69520faa25d87609f5f8c65b7",
+    "semantic_hash": "24a5fac69520faa25d87609f5f8c65b7"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/balance/service/impl/BalanceServiceImpl.java": {
+    "mtime": 1781381715.0594747,
+    "ast_hash": "447083d12d51ddcee450548d5a7d4493",
+    "semantic_hash": "447083d12d51ddcee450548d5a7d4493"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/chat/controller/ChatController.java": {
+    "mtime": 1781385045.1710892,
+    "ast_hash": "82140100ca3f6f7499571104d965cb6c",
+    "semantic_hash": "82140100ca3f6f7499571104d965cb6c"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/chat/dto/ChatMessageResponse.java": {
+    "mtime": 1781385044.5975997,
+    "ast_hash": "356183d2058a7ae879bff1fcc2f6ba0b",
+    "semantic_hash": "356183d2058a7ae879bff1fcc2f6ba0b"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/chat/dto/DeleteMessageRequest.java": {
+    "mtime": 1781385044.378289,
+    "ast_hash": "30803ff8766ec0e0bccc9b10c5f41d37",
+    "semantic_hash": "30803ff8766ec0e0bccc9b10c5f41d37"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/chat/dto/EditMessageRequest.java": {
+    "mtime": 1781385044.219463,
+    "ast_hash": "e22c7bd8649080f32c36e70dd62e26ae",
+    "semantic_hash": "e22c7bd8649080f32c36e70dd62e26ae"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/chat/dto/SendMessageRequest.java": {
+    "mtime": 1781385044.0320683,
+    "ast_hash": "147af2c31579b5b95b8156ac58868a99",
+    "semantic_hash": "147af2c31579b5b95b8156ac58868a99"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/chat/entity/ChatMessage.java": {
+    "mtime": 1781385043.6133564,
+    "ast_hash": "fd1c126603217c033a8c0de6dc39662b",
+    "semantic_hash": "fd1c126603217c033a8c0de6dc39662b"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/chat/repository/ChatMessageRepository.java": {
+    "mtime": 1781385043.8513598,
+    "ast_hash": "c6759437cc29729127ab5acece61d3d9",
+    "semantic_hash": "c6759437cc29729127ab5acece61d3d9"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/chat/service/ChatService.java": {
+    "mtime": 1781385044.7640426,
+    "ast_hash": "3beb43603740afe34db5d3fbb79794ac",
+    "semantic_hash": "3beb43603740afe34db5d3fbb79794ac"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/chat/service/impl/ChatServiceImpl.java": {
+    "mtime": 1781385044.9614272,
+    "ast_hash": "cd6a5e4f3b7748a4bdbd02b19d2e9ed0",
+    "semantic_hash": "cd6a5e4f3b7748a4bdbd02b19d2e9ed0"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/chat/websocket/ChatWebSocketController.java": {
+    "mtime": 1781385045.651421,
+    "ast_hash": "a175617063d9bce53f0dda64a0355a56",
+    "semantic_hash": "a175617063d9bce53f0dda64a0355a56"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/chat/websocket/WebSocketConfig.java": {
+    "mtime": 1781385045.3459356,
+    "ast_hash": "025eb86d10583dee3a1dad38fd59a2e3",
+    "semantic_hash": "025eb86d10583dee3a1dad38fd59a2e3"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/common/config/ApplicationConfig.java": {
+    "mtime": 1781357361.5486376,
+    "ast_hash": "db8a533d65395259f90b2e886498e3d5",
+    "semantic_hash": "db8a533d65395259f90b2e886498e3d5"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/common/entity/BaseEntity.java": {
+    "mtime": 1781357139.3730366,
+    "ast_hash": "05f2af612ae26c59a1d0138fa264b4f5",
+    "semantic_hash": "05f2af612ae26c59a1d0138fa264b4f5"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/common/exception/GlobalExceptionHandler.java": {
+    "mtime": 1781383461.7825906,
+    "ast_hash": "75818ecab482f5d81436ce535c9e9b1a",
+    "semantic_hash": "75818ecab482f5d81436ce535c9e9b1a"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/common/response/ApiResponse.java": {
+    "mtime": 1781371785.710472,
+    "ast_hash": "5c9adcf7df8824192c3aac6a2d6c2e15",
+    "semantic_hash": "5c9adcf7df8824192c3aac6a2d6c2e15"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/common/security/CustomUserDetails.java": {
+    "mtime": 1781371781.2866988,
+    "ast_hash": "3bd1bfbdbfe0b76b19635f72088f63a0",
+    "semantic_hash": "3bd1bfbdbfe0b76b19635f72088f63a0"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/common/security/CustomUserDetailsService.java": {
+    "mtime": 1781371782.1963987,
+    "ast_hash": "59abb1fc3a781df7d505dec7a3e4c487",
+    "semantic_hash": "59abb1fc3a781df7d505dec7a3e4c487"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/common/security/JwtAuthenticationFilter.java": {
+    "mtime": 1781468076.922524,
+    "ast_hash": "8af16a033483560ac3f6a8f8d2acac92",
+    "semantic_hash": "8af16a033483560ac3f6a8f8d2acac92"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/common/security/JwtService.java": {
+    "mtime": 1781373635.6092162,
+    "ast_hash": "bbdce06975d11fe1753fdb80c10cb8c8",
+    "semantic_hash": "bbdce06975d11fe1753fdb80c10cb8c8"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/common/security/SecurityConfig.java": {
+    "mtime": 1781485397.9605062,
+    "ast_hash": "66549498387de3dc21eee0f4dc589b06",
+    "semantic_hash": "66549498387de3dc21eee0f4dc589b06"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/dashboard/controller/DashboardController.java": {
+    "mtime": 1781384821.55616,
+    "ast_hash": "f934171f59203bee82fdb56347dc3d53",
+    "semantic_hash": "f934171f59203bee82fdb56347dc3d53"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/dashboard/dto/DashboardSummaryResponse.java": {
+    "mtime": 1781384820.4562647,
+    "ast_hash": "9b7cff9e41cb03e84f031f484d50c389",
+    "semantic_hash": "9b7cff9e41cb03e84f031f484d50c389"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/dashboard/dto/RecentExpenseResponse.java": {
+    "mtime": 1781384820.6347325,
+    "ast_hash": "3716b5680e5b87ff1095f1352d81e3f4",
+    "semantic_hash": "3716b5680e5b87ff1095f1352d81e3f4"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/dashboard/dto/RecentSettlementResponse.java": {
+    "mtime": 1781384820.8872924,
+    "ast_hash": "908a31210f8367f4e1cb6aae6d7327ea",
+    "semantic_hash": "908a31210f8367f4e1cb6aae6d7327ea"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/dashboard/service/DashboardService.java": {
+    "mtime": 1781384821.1298988,
+    "ast_hash": "4d2200bf42dd5dde4219fa409ec60ba0",
+    "semantic_hash": "4d2200bf42dd5dde4219fa409ec60ba0"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/dashboard/service/impl/DashboardServiceImpl.java": {
+    "mtime": 1781384821.339548,
+    "ast_hash": "14395e55c79f9d6b33e1c6abd6a89bbd",
+    "semantic_hash": "14395e55c79f9d6b33e1c6abd6a89bbd"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/expense/calculator/CalculatedSplit.java": {
+    "mtime": 1781379481.11466,
+    "ast_hash": "1eb26153e8795114e62c27f8ee73846d",
+    "semantic_hash": "1eb26153e8795114e62c27f8ee73846d"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/expense/calculator/EqualSplitCalculator.java": {
+    "mtime": 1781379481.4153585,
+    "ast_hash": "c1d5f8d238149d4580b32eb916bfd10c",
+    "semantic_hash": "c1d5f8d238149d4580b32eb916bfd10c"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/expense/calculator/PercentageSplitCalculator.java": {
+    "mtime": 1781379481.7158031,
+    "ast_hash": "d80a71bc4b871a30b7e1265f4b75386c",
+    "semantic_hash": "d80a71bc4b871a30b7e1265f4b75386c"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/expense/calculator/ShareSplitCalculator.java": {
+    "mtime": 1781379481.8646626,
+    "ast_hash": "34f7aae8ee0caf1c26616a7b1a1b23e5",
+    "semantic_hash": "34f7aae8ee0caf1c26616a7b1a1b23e5"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/expense/calculator/SplitCalculator.java": {
+    "mtime": 1781379481.2617998,
+    "ast_hash": "3072bab17974a0d5a83a38098a0e5084",
+    "semantic_hash": "3072bab17974a0d5a83a38098a0e5084"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/expense/calculator/UnequalSplitCalculator.java": {
+    "mtime": 1781379481.5712492,
+    "ast_hash": "72251369b4261020ee0f23a596288282",
+    "semantic_hash": "72251369b4261020ee0f23a596288282"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/expense/controller/ExpenseController.java": {
+    "mtime": 1781379482.671628,
+    "ast_hash": "bd0211b91a6ee3ab642388b03abe1ba9",
+    "semantic_hash": "bd0211b91a6ee3ab642388b03abe1ba9"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/expense/dto/CreateExpenseRequest.java": {
+    "mtime": 1781379479.8919823,
+    "ast_hash": "ea9cf9ab23fdace055ae0b54cb813b25",
+    "semantic_hash": "ea9cf9ab23fdace055ae0b54cb813b25"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/expense/dto/ExpenseParticipantRequest.java": {
+    "mtime": 1781379480.033577,
+    "ast_hash": "04914b7867f6ea00b2dbd645d536473d",
+    "semantic_hash": "04914b7867f6ea00b2dbd645d536473d"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/expense/dto/ExpenseParticipantResponse.java": {
+    "mtime": 1781379480.3721018,
+    "ast_hash": "375263cb609f4982f3a4aedafaec9e07",
+    "semantic_hash": "375263cb609f4982f3a4aedafaec9e07"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/expense/dto/ExpenseResponse.java": {
+    "mtime": 1781383461.9634774,
+    "ast_hash": "ed5bdb7bf20e9ef0f21679bb4f2eebb4",
+    "semantic_hash": "ed5bdb7bf20e9ef0f21679bb4f2eebb4"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/expense/dto/ExpenseUserResponse.java": {
+    "mtime": 1781379480.2376072,
+    "ast_hash": "d46627533c25d6d2a8e03ca0e049ef8e",
+    "semantic_hash": "d46627533c25d6d2a8e03ca0e049ef8e"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/expense/entity/Expense.java": {
+    "mtime": 1781379479.3550663,
+    "ast_hash": "ef8dc79b337998bda0dd2fb851077272",
+    "semantic_hash": "ef8dc79b337998bda0dd2fb851077272"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/expense/entity/ExpenseParticipant.java": {
+    "mtime": 1781379479.4875884,
+    "ast_hash": "e516dfb12bb91f3a47258fb84f1a7953",
+    "semantic_hash": "e516dfb12bb91f3a47258fb84f1a7953"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/expense/entity/SplitType.java": {
+    "mtime": 1781379479.216422,
+    "ast_hash": "7d18718c8c0ebdf4653f27a129456043",
+    "semantic_hash": "7d18718c8c0ebdf4653f27a129456043"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/expense/repository/ExpenseParticipantRepository.java": {
+    "mtime": 1781379480.779704,
+    "ast_hash": "ee36f5075c013fe39e6fd9956e783407",
+    "semantic_hash": "ee36f5075c013fe39e6fd9956e783407"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/expense/repository/ExpenseRepository.java": {
+    "mtime": 1781384821.7741325,
+    "ast_hash": "607485ce66b3c84e1cef1b2a6d20d4df",
+    "semantic_hash": "607485ce66b3c84e1cef1b2a6d20d4df"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/expense/service/ExpenseService.java": {
+    "mtime": 1781379482.320043,
+    "ast_hash": "da107035eebda35ff1277162e346449d",
+    "semantic_hash": "da107035eebda35ff1277162e346449d"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/expense/service/impl/ExpenseServiceImpl.java": {
+    "mtime": 1781383462.1437297,
+    "ast_hash": "0876827d23f39b4e9315480caee72edb",
+    "semantic_hash": "0876827d23f39b4e9315480caee72edb"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/group/controller/GroupController.java": {
+    "mtime": 1781377944.8235495,
+    "ast_hash": "bdabcf703d4f7bcf9f36b7aa552c11b4",
+    "semantic_hash": "bdabcf703d4f7bcf9f36b7aa552c11b4"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/group/dto/AddMemberRequest.java": {
+    "mtime": 1781377940.0471869,
+    "ast_hash": "f1e728eedd747c856c65331bbb285f85",
+    "semantic_hash": "f1e728eedd747c856c65331bbb285f85"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/group/dto/CreateGroupRequest.java": {
+    "mtime": 1781377938.331778,
+    "ast_hash": "d9bda60eabff2d904246ab4763be488f",
+    "semantic_hash": "d9bda60eabff2d904246ab4763be488f"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/group/dto/GroupMemberResponse.java": {
+    "mtime": 1781377941.2362988,
+    "ast_hash": "5d32630e7b10a7302346369c27ccedc9",
+    "semantic_hash": "5d32630e7b10a7302346369c27ccedc9"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/group/dto/GroupResponse.java": {
+    "mtime": 1781377941.5145047,
+    "ast_hash": "3a5c35a2a1fde7fcc210e23441319b62",
+    "semantic_hash": "3a5c35a2a1fde7fcc210e23441319b62"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/group/dto/UpdateGroupRequest.java": {
+    "mtime": 1781377938.9692848,
+    "ast_hash": "5c53ae5ffbbe209e4b2118f426ea67bb",
+    "semantic_hash": "5c53ae5ffbbe209e4b2118f426ea67bb"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/group/entity/Group.java": {
+    "mtime": 1781377975.3094256,
+    "ast_hash": "b9b99d183dde61f242d278a7adf70d00",
+    "semantic_hash": "b9b99d183dde61f242d278a7adf70d00"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/group/entity/GroupMember.java": {
+    "mtime": 1781377937.0175898,
+    "ast_hash": "b323c364ee235b9c8981bd2c57f33994",
+    "semantic_hash": "b323c364ee235b9c8981bd2c57f33994"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/group/entity/GroupRole.java": {
+    "mtime": 1781377934.9354877,
+    "ast_hash": "02bc4e701675f59523c0c77388a72250",
+    "semantic_hash": "02bc4e701675f59523c0c77388a72250"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/group/repository/GroupMemberRepository.java": {
+    "mtime": 1781377942.9389656,
+    "ast_hash": "243e2d2b0b560e6744b8e6f7c6609cdd",
+    "semantic_hash": "243e2d2b0b560e6744b8e6f7c6609cdd"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/group/repository/GroupRepository.java": {
+    "mtime": 1781377941.9293797,
+    "ast_hash": "2386fe35c43eb5d28d522a108b426aa8",
+    "semantic_hash": "2386fe35c43eb5d28d522a108b426aa8"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/group/service/GroupService.java": {
+    "mtime": 1781377943.4337547,
+    "ast_hash": "0592d851a38fc7d1749a3152598e93fe",
+    "semantic_hash": "0592d851a38fc7d1749a3152598e93fe"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/group/service/impl/GroupServiceImpl.java": {
+    "mtime": 1781377943.721702,
+    "ast_hash": "5ff8d4358e0130abf5f1ba91520c3b02",
+    "semantic_hash": "5ff8d4358e0130abf5f1ba91520c3b02"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/settlement/controller/SettlementController.java": {
+    "mtime": 1781384104.905654,
+    "ast_hash": "9dcfab539a51f4e5adcdcf69b900b722",
+    "semantic_hash": "9dcfab539a51f4e5adcdcf69b900b722"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/settlement/dto/CreateSettlementRequest.java": {
+    "mtime": 1781383949.4255607,
+    "ast_hash": "30f660de6b72f8fb0173b1eb39ac8ebe",
+    "semantic_hash": "30f660de6b72f8fb0173b1eb39ac8ebe"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/settlement/dto/SettlementHistoryResponse.java": {
+    "mtime": 1781384104.1325934,
+    "ast_hash": "e380f601d668f88fd04c70c26ddfd5e5",
+    "semantic_hash": "e380f601d668f88fd04c70c26ddfd5e5"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/settlement/dto/SettlementResponse.java": {
+    "mtime": 1781383949.5644238,
+    "ast_hash": "c04e10954a565c73c8230dc5f576d3b2",
+    "semantic_hash": "c04e10954a565c73c8230dc5f576d3b2"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/settlement/entity/Settlement.java": {
+    "mtime": 1781383462.3304026,
+    "ast_hash": "a46a1076f77e6437a8bd3ab4e3cd1e28",
+    "semantic_hash": "a46a1076f77e6437a8bd3ab4e3cd1e28"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/settlement/repository/SettlementRepository.java": {
+    "mtime": 1781384821.9978576,
+    "ast_hash": "feb688bdbcfd76a8c55e4ff5c53a2200",
+    "semantic_hash": "feb688bdbcfd76a8c55e4ff5c53a2200"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/settlement/service/SettlementService.java": {
+    "mtime": 1781384104.5169573,
+    "ast_hash": "6b91197e5de1a6f85762b68f6fac0e44",
+    "semantic_hash": "6b91197e5de1a6f85762b68f6fac0e44"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/settlement/service/impl/SettlementServiceImpl.java": {
+    "mtime": 1781384104.7166276,
+    "ast_hash": "a41a922497bdd34bb6f6d781a492aa84",
+    "semantic_hash": "a41a922497bdd34bb6f6d781a492aa84"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/test/TestController.java": {
+    "mtime": 1781376582.0041866,
+    "ast_hash": "038ef832960a8fb7e93342c67ad2ac78",
+    "semantic_hash": "038ef832960a8fb7e93342c67ad2ac78"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/user/entity/User.java": {
+    "mtime": 1781357187.9725387,
+    "ast_hash": "0617812d90764e91c13493ad4bb9be99",
+    "semantic_hash": "0617812d90764e91c13493ad4bb9be99"
+  },
+  "backend/splitmate/src/main/java/com/splitmate/user/repository/UserRepository.java": {
+    "mtime": 1781357222.6255593,
+    "ast_hash": "74feab5d5946fdb7cf8ac0a7ab7ac376",
+    "semantic_hash": "74feab5d5946fdb7cf8ac0a7ab7ac376"
+  },
+  "backend/splitmate/src/test/java/com/splitmate/SplitmateApplicationTests.java": {
+    "mtime": 1781354785.610234,
+    "ast_hash": "8cb2d19cd58d2541fc98ee3008b8404d",
+    "semantic_hash": "8cb2d19cd58d2541fc98ee3008b8404d"
+  },
+  "frontend/components.json": {
+    "mtime": 1781388265.3036618,
+    "ast_hash": "8dd7dc9736c59a9bfe53ef77e3e07fc4",
+    "semantic_hash": "8dd7dc9736c59a9bfe53ef77e3e07fc4"
+  },
+  "frontend/eslint.config.js": {
+    "mtime": 1781355690.5437381,
+    "ast_hash": "3aa4b57d7f08181d86bde52a4dcb7f22",
+    "semantic_hash": "3aa4b57d7f08181d86bde52a4dcb7f22"
+  },
+  "frontend/package.json": {
+    "mtime": 1781468076.040508,
+    "ast_hash": "a87a74f05609fed6e5364cd4cf0c4dbe",
+    "semantic_hash": "a87a74f05609fed6e5364cd4cf0c4dbe"
+  },
+  "frontend/src/App.jsx": {
+    "mtime": 1781392437.0563242,
+    "ast_hash": "c21f7676cd381a52e39e4758ca2460df",
+    "semantic_hash": "c21f7676cd381a52e39e4758ca2460df"
+  },
+  "frontend/src/api/axios.js": {
+    "mtime": 1781392435.5612152,
+    "ast_hash": "5361a37f55264d9057240fda53e6c51c",
+    "semantic_hash": "5361a37f55264d9057240fda53e6c51c"
+  },
+  "frontend/src/components/balances/BalanceGroupView.jsx": {
+    "mtime": 1781463499.0315084,
+    "ast_hash": "00f137578db629275234837e0c084695",
+    "semantic_hash": "00f137578db629275234837e0c084695"
+  },
+  "frontend/src/components/balances/BalanceSummaryCards.jsx": {
+    "mtime": 1781463497.366894,
+    "ast_hash": "87be074cf7e71c1ed545a0daa8f446b4",
+    "semantic_hash": "87be074cf7e71c1ed545a0daa8f446b4"
+  },
+  "frontend/src/components/balances/BalanceTable.jsx": {
+    "mtime": 1781463498.6933248,
+    "ast_hash": "8238be28709da3c504003c9ee0c1d297",
+    "semantic_hash": "8238be28709da3c504003c9ee0c1d297"
+  },
+  "frontend/src/components/chat/ChatContainer.jsx": {
+    "mtime": 1781468154.6025922,
+    "ast_hash": "d3cbaedc113a034c81b6238d79210984",
+    "semantic_hash": "d3cbaedc113a034c81b6238d79210984"
+  },
+  "frontend/src/components/chat/ChatHeader.jsx": {
+    "mtime": 1781468123.818406,
+    "ast_hash": "5ceb037d73948c83c6a90ae13b9bd34e",
+    "semantic_hash": "5ceb037d73948c83c6a90ae13b9bd34e"
+  },
+  "frontend/src/components/chat/ChatInput.jsx": {
+    "mtime": 1781468146.6184044,
+    "ast_hash": "0be7ba05f36403cf736b18eb3a4c21a1",
+    "semantic_hash": "0be7ba05f36403cf736b18eb3a4c21a1"
+  },
+  "frontend/src/components/chat/ChatMessage.jsx": {
+    "mtime": 1781468137.3404658,
+    "ast_hash": "78bf1d926ba6719e3bf7eecc29bdff80",
+    "semantic_hash": "78bf1d926ba6719e3bf7eecc29bdff80"
+  },
+  "frontend/src/components/chat/ChatMessageList.jsx": {
+    "mtime": 1781468141.8410895,
+    "ast_hash": "8327e9e467b4007557f5f6306b61b5b2",
+    "semantic_hash": "8327e9e467b4007557f5f6306b61b5b2"
+  },
+  "frontend/src/components/chat/EditMessageDialog.jsx": {
+    "mtime": 1781471728.164388,
+    "ast_hash": "b0a5a0d2a8a8907c494548c046c6600e",
+    "semantic_hash": "b0a5a0d2a8a8907c494548c046c6600e"
+  },
+  "frontend/src/components/common/EmptyState.jsx": {
+    "mtime": 1781388263.950351,
+    "ast_hash": "e42b368a7d6a0b08942651f2d6bfeb9a",
+    "semantic_hash": "e42b368a7d6a0b08942651f2d6bfeb9a"
+  },
+  "frontend/src/components/common/ErrorState.jsx": {
+    "mtime": 1781388263.7481072,
+    "ast_hash": "45a17cdd460592d5cbae6b7117a69e2b",
+    "semantic_hash": "45a17cdd460592d5cbae6b7117a69e2b"
+  },
+  "frontend/src/components/common/LoadingSpinner.jsx": {
+    "mtime": 1781388263.3981743,
+    "ast_hash": "260b2d91b9280e4b53f145e8bd8c9864",
+    "semantic_hash": "260b2d91b9280e4b53f145e8bd8c9864"
+  },
+  "frontend/src/components/common/PageHeader.jsx": {
+    "mtime": 1781388263.5713754,
+    "ast_hash": "6363780e6fa27c655d06732259a7979d",
+    "semantic_hash": "6363780e6fa27c655d06732259a7979d"
+  },
+  "frontend/src/components/common/SkeletonLoader.jsx": {
+    "mtime": 1781393784.5827866,
+    "ast_hash": "3cd68e8948e224f6a93b0aa73e55fafc",
+    "semantic_hash": "3cd68e8948e224f6a93b0aa73e55fafc"
+  },
+  "frontend/src/components/common/Toaster.jsx": {
+    "mtime": 1781392436.9033525,
+    "ast_hash": "fc20091dbedaf14497684210b3514d00",
+    "semantic_hash": "fc20091dbedaf14497684210b3514d00"
+  },
+  "frontend/src/components/expenses/CreateExpenseDialog.jsx": {
+    "mtime": 1781470329.1163864,
+    "ast_hash": "1942c1c8fc898f56a461c3364611bb7a",
+    "semantic_hash": "1942c1c8fc898f56a461c3364611bb7a"
+  },
+  "frontend/src/components/expenses/ExpenseCard.jsx": {
+    "mtime": 1781394798.256471,
+    "ast_hash": "095a5d6ca8877b9b0f8dbfa146ae4864",
+    "semantic_hash": "095a5d6ca8877b9b0f8dbfa146ae4864"
+  },
+  "frontend/src/components/expenses/ExpenseList.jsx": {
+    "mtime": 1781394798.256471,
+    "ast_hash": "b86fb5d282690331b0fd7aa78d00c843",
+    "semantic_hash": "b86fb5d282690331b0fd7aa78d00c843"
+  },
+  "frontend/src/components/expenses/ExpenseParticipantsTable.jsx": {
+    "mtime": 1781470375.2991579,
+    "ast_hash": "4deb8485d8938263d03b1717e8d71fdf",
+    "semantic_hash": "4deb8485d8938263d03b1717e8d71fdf"
+  },
+  "frontend/src/components/expenses/SplitTypeSelector.jsx": {
+    "mtime": 1781461999.1814053,
+    "ast_hash": "ff1488285945375fd8511e30aa2e9c67",
+    "semantic_hash": "ff1488285945375fd8511e30aa2e9c67"
+  },
+  "frontend/src/components/groups/AddMemberDialog.jsx": {
+    "mtime": 1781394117.5373247,
+    "ast_hash": "96824d3824f6eba9f44346d6a835397b",
+    "semantic_hash": "96824d3824f6eba9f44346d6a835397b"
+  },
+  "frontend/src/components/groups/CreateGroupDialog.jsx": {
+    "mtime": 1781394117.5329094,
+    "ast_hash": "0802e9eb53a36dfea51ecdb51475d0e0",
+    "semantic_hash": "0802e9eb53a36dfea51ecdb51475d0e0"
+  },
+  "frontend/src/components/groups/EditGroupDialog.jsx": {
+    "mtime": 1781394117.5373247,
+    "ast_hash": "2dfb483a730dd5340c87a4162ae5430e",
+    "semantic_hash": "2dfb483a730dd5340c87a4162ae5430e"
+  },
+  "frontend/src/components/groups/GroupCard.jsx": {
+    "mtime": 1781462003.060229,
+    "ast_hash": "74d757782559aa6e4591b8573862d026",
+    "semantic_hash": "74d757782559aa6e4591b8573862d026"
+  },
+  "frontend/src/components/groups/MemberList.jsx": {
+    "mtime": 1781394117.5393198,
+    "ast_hash": "048dbaf5c3ef1f18bfc1c71df0ffd223",
+    "semantic_hash": "048dbaf5c3ef1f18bfc1c71df0ffd223"
+  },
+  "frontend/src/components/layouts/AuthLayout.jsx": {
+    "mtime": 1781388264.4987757,
+    "ast_hash": "483697420bd8a06c19fceec30653d4cd",
+    "semantic_hash": "483697420bd8a06c19fceec30653d4cd"
+  },
+  "frontend/src/components/layouts/DashboardLayout.jsx": {
+    "mtime": 1781463519.049574,
+    "ast_hash": "050f99f2fbc8748c8e6b7ac1fa2bc609",
+    "semantic_hash": "050f99f2fbc8748c8e6b7ac1fa2bc609"
+  },
+  "frontend/src/components/settlements/CreateSettlementDialog.jsx": {
+    "mtime": 1781471158.0767953,
+    "ast_hash": "bf05e6f61c72e63b539a3ea257639a37",
+    "semantic_hash": "bf05e6f61c72e63b539a3ea257639a37"
+  },
+  "frontend/src/components/settlements/SettlementCard.jsx": {
+    "mtime": 1781463957.5450084,
+    "ast_hash": "2ae69ecde78c86144a032d3ca43b73a9",
+    "semantic_hash": "2ae69ecde78c86144a032d3ca43b73a9"
+  },
+  "frontend/src/components/settlements/SettlementHistoryTable.jsx": {
+    "mtime": 1781463959.00358,
+    "ast_hash": "d20777f85a335f8894b978a5ae01771f",
+    "semantic_hash": "d20777f85a335f8894b978a5ae01771f"
+  },
+  "frontend/src/components/settlements/SettlementSummary.jsx": {
+    "mtime": 1781463957.2183604,
+    "ast_hash": "34b9693efa3f11e7ed99681b4483cb02",
+    "semantic_hash": "34b9693efa3f11e7ed99681b4483cb02"
+  },
+  "frontend/src/components/ui/alert-dialog.jsx": {
+    "mtime": 1781394151.48073,
+    "ast_hash": "459854688fee5adeec9edb0dd8b9dc8d",
+    "semantic_hash": "459854688fee5adeec9edb0dd8b9dc8d"
+  },
+  "frontend/src/components/ui/badge.jsx": {
+    "mtime": 1781393508.7883694,
+    "ast_hash": "bbdf82db7102915938fcf3663f2bf5a1",
+    "semantic_hash": "bbdf82db7102915938fcf3663f2bf5a1"
+  },
+  "frontend/src/components/ui/button.jsx": {
+    "mtime": 1781394117.5329094,
+    "ast_hash": "6ee6d34c3568b79cfe05efe484802e57",
+    "semantic_hash": "6ee6d34c3568b79cfe05efe484802e57"
+  },
+  "frontend/src/components/ui/card.jsx": {
+    "mtime": 1781393508.4644215,
+    "ast_hash": "bcf825b9dfbd1c832cf02a097f254185",
+    "semantic_hash": "bcf825b9dfbd1c832cf02a097f254185"
+  },
+  "frontend/src/components/ui/dialog.jsx": {
+    "mtime": 1781394117.5329094,
+    "ast_hash": "f4e8466f3ec9baa33515a2611a42da14",
+    "semantic_hash": "f4e8466f3ec9baa33515a2611a42da14"
+  },
+  "frontend/src/components/ui/input.jsx": {
+    "mtime": 1781394117.5329094,
+    "ast_hash": "c2538faaa945ff7d04704c00ab7fe57f",
+    "semantic_hash": "c2538faaa945ff7d04704c00ab7fe57f"
+  },
+  "frontend/src/components/ui/select.jsx": {
+    "mtime": 1781463952.5884664,
+    "ast_hash": "fd393f69e29d2ae5624b8eaa434e6654",
+    "semantic_hash": "fd393f69e29d2ae5624b8eaa434e6654"
+  },
+  "frontend/src/components/ui/separator.jsx": {
+    "mtime": 1781393508.935387,
+    "ast_hash": "b4365a6046af93d30c266dc28f9107f6",
+    "semantic_hash": "b4365a6046af93d30c266dc28f9107f6"
+  },
+  "frontend/src/components/ui/skeleton.jsx": {
+    "mtime": 1781463492.6845279,
+    "ast_hash": "1c03dcfeb2b2dfc05d551b49f0c9921e",
+    "semantic_hash": "1c03dcfeb2b2dfc05d551b49f0c9921e"
+  },
+  "frontend/src/components/ui/table.jsx": {
+    "mtime": 1781393508.6356373,
+    "ast_hash": "a2ed8e2fa89619bc69dce4b069dc81bc",
+    "semantic_hash": "a2ed8e2fa89619bc69dce4b069dc81bc"
+  },
+  "frontend/src/components/ui/textarea.jsx": {
+    "mtime": 1781394117.5329094,
+    "ast_hash": "cd892d9b6bfddc444004099d5fe0a86d",
+    "semantic_hash": "cd892d9b6bfddc444004099d5fe0a86d"
+  },
+  "frontend/src/constants/auth.js": {
+    "mtime": 1781392435.2588916,
+    "ast_hash": "fc94f6612e6954ea69f0da45d4bdef55",
+    "semantic_hash": "fc94f6612e6954ea69f0da45d4bdef55"
+  },
+  "frontend/src/constants/routes.js": {
+    "mtime": 1781468168.2643619,
+    "ast_hash": "67785216c4a9e35e3671978df4fffc10",
+    "semantic_hash": "67785216c4a9e35e3671978df4fffc10"
+  },
+  "frontend/src/context/AuthContext.jsx": {
+    "mtime": 1781468087.0244498,
+    "ast_hash": "b15a85b17c53a0b6f47c6bc108b1dff2",
+    "semantic_hash": "b15a85b17c53a0b6f47c6bc108b1dff2"
+  },
+  "frontend/src/context/auth-context.js": {
+    "mtime": 1781390702.288038,
+    "ast_hash": "2d29670a544887d3b00bc38e28682be6",
+    "semantic_hash": "2d29670a544887d3b00bc38e28682be6"
+  },
+  "frontend/src/hooks/useAuth.jsx": {
+    "mtime": 1781390702.4063838,
+    "ast_hash": "c2ea5b3b4259d351a94f7a2299927c33",
+    "semantic_hash": "c2ea5b3b4259d351a94f7a2299927c33"
+  },
+  "frontend/src/hooks/useBalances.js": {
+    "mtime": 1781463495.0617409,
+    "ast_hash": "fd8f9336c9002d7ce9cd66547b9d085b",
+    "semantic_hash": "fd8f9336c9002d7ce9cd66547b9d085b"
+  },
+  "frontend/src/hooks/useChat.js": {
+    "mtime": 1781471653.4058874,
+    "ast_hash": "b2d00e7d7d0b0f975373790fe82f3ea7",
+    "semantic_hash": "b2d00e7d7d0b0f975373790fe82f3ea7"
+  },
+  "frontend/src/hooks/useDashboard.js": {
+    "mtime": 1781393509.2260344,
+    "ast_hash": "8031fd90375518c55a5afd8cb0961973",
+    "semantic_hash": "8031fd90375518c55a5afd8cb0961973"
+  },
+  "frontend/src/hooks/useExpenses.js": {
+    "mtime": 1781463521.3843515,
+    "ast_hash": "6b13c44ed1390bc728fd79dbebb9d48d",
+    "semantic_hash": "6b13c44ed1390bc728fd79dbebb9d48d"
+  },
+  "frontend/src/hooks/useGroups.js": {
+    "mtime": 1781394117.5329094,
+    "ast_hash": "30871c60a17a2dc015e39b13d48daa49",
+    "semantic_hash": "30871c60a17a2dc015e39b13d48daa49"
+  },
+  "frontend/src/hooks/useSettlements.js": {
+    "mtime": 1781463956.6877944,
+    "ast_hash": "71aead38be898285c63c2c86029fba67",
+    "semantic_hash": "71aead38be898285c63c2c86029fba67"
+  },
+  "frontend/src/layouts/AuthLayout.jsx": {
+    "mtime": 1781388308.7592576,
+    "ast_hash": "2f61b9c312c418f845012131ecf4da65",
+    "semantic_hash": "2f61b9c312c418f845012131ecf4da65"
+  },
+  "frontend/src/layouts/MainLayout.jsx": {
+    "mtime": 1781388309.2228076,
+    "ast_hash": "26d413f887665e92f2e2f7bbcb97eb3e",
+    "semantic_hash": "26d413f887665e92f2e2f7bbcb97eb3e"
+  },
+  "frontend/src/lib/websocket.js": {
+    "mtime": 1781468091.616974,
+    "ast_hash": "9a9bec6362f6dbf266e729a50d477990",
+    "semantic_hash": "9a9bec6362f6dbf266e729a50d477990"
+  },
+  "frontend/src/main.jsx": {
+    "mtime": 1781388259.583397,
+    "ast_hash": "e13723e2574429d9a6d849727e3ff695",
+    "semantic_hash": "e13723e2574429d9a6d849727e3ff695"
+  },
+  "frontend/src/pages/DashboardPage.jsx": {
+    "mtime": 1781393561.879391,
+    "ast_hash": "73d099b7427a0a1a41a696f42d165e39",
+    "semantic_hash": "73d099b7427a0a1a41a696f42d165e39"
+  },
+  "frontend/src/pages/GroupDetailsPage.jsx": {
+    "mtime": 1781468179.7916384,
+    "ast_hash": "336d40d55304dbeec57519a86403b04d",
+    "semantic_hash": "336d40d55304dbeec57519a86403b04d"
+  },
+  "frontend/src/pages/GroupPage.jsx": {
+    "mtime": 1781462009.3139799,
+    "ast_hash": "e862093414f65001c7d2987dfe7a2bc7",
+    "semantic_hash": "e862093414f65001c7d2987dfe7a2bc7"
+  },
+  "frontend/src/pages/LoginPage.jsx": {
+    "mtime": 1781392535.9381287,
+    "ast_hash": "367d7ca717de84e3484a189f291776a9",
+    "semantic_hash": "367d7ca717de84e3484a189f291776a9"
+  },
+  "frontend/src/pages/RegisterPage.jsx": {
+    "mtime": 1781392613.5629506,
+    "ast_hash": "a9c284ad0120279906d5d655d1e4b866",
+    "semantic_hash": "a9c284ad0120279906d5d655d1e4b866"
+  },
+  "frontend/src/pages/balances/BalancesPage.jsx": {
+    "mtime": 1781463499.602729,
+    "ast_hash": "61e0f0b936f9220f9b572344486d6f86",
+    "semantic_hash": "61e0f0b936f9220f9b572344486d6f86"
+  },
+  "frontend/src/pages/chat/ChatPage.jsx": {
+    "mtime": 1781468164.1363068,
+    "ast_hash": "e9945ec3fd0dadd87930fc11a2ac38a9",
+    "semantic_hash": "e9945ec3fd0dadd87930fc11a2ac38a9"
+  },
+  "frontend/src/pages/dashboard/DashboardPage.jsx": {
+    "mtime": 1781393784.5827866,
+    "ast_hash": "3f1655acff2560c0f5206db7a17803dc",
+    "semantic_hash": "3f1655acff2560c0f5206db7a17803dc"
+  },
+  "frontend/src/pages/expenses/ExpenseDetailsPage.jsx": {
+    "mtime": 1781461991.4168532,
+    "ast_hash": "b3767c6b215a39318b39bd7862cc0509",
+    "semantic_hash": "b3767c6b215a39318b39bd7862cc0509"
+  },
+  "frontend/src/pages/groups/GroupsPage.jsx": {
+    "mtime": 1781462892.3281825,
+    "ast_hash": "5de193c17d06ee502fc4b96fe47b4579",
+    "semantic_hash": "5de193c17d06ee502fc4b96fe47b4579"
+  },
+  "frontend/src/pages/settlements/SettlementDetailsPage.jsx": {
+    "mtime": 1781464079.2951827,
+    "ast_hash": "5d804bb41121f3876c7c2e88d395c415",
+    "semantic_hash": "5d804bb41121f3876c7c2e88d395c415"
+  },
+  "frontend/src/pages/settlements/SettlementsPage.jsx": {
+    "mtime": 1781464138.8059893,
+    "ast_hash": "338fb4313df9c74a251e1e7db8452493",
+    "semantic_hash": "338fb4313df9c74a251e1e7db8452493"
+  },
+  "frontend/src/routes/AppRoutes.jsx": {
+    "mtime": 1781468172.7729928,
+    "ast_hash": "f8b89589a8ffbc43e522e2ceeea46250",
+    "semantic_hash": "f8b89589a8ffbc43e522e2ceeea46250"
+  },
+  "frontend/src/routes/ProtectedRoute.jsx": {
+    "mtime": 1781388264.8134842,
+    "ast_hash": "b48090620293e44d70afef474bfb71d7",
+    "semantic_hash": "b48090620293e44d70afef474bfb71d7"
+  },
+  "frontend/src/services/authService.js": {
+    "mtime": 1781392436.066861,
+    "ast_hash": "6d284e91f9584a86e9177a7c8a830811",
+    "semantic_hash": "6d284e91f9584a86e9177a7c8a830811"
+  },
+  "frontend/src/services/balanceService.js": {
+    "mtime": 1781463493.2508538,
+    "ast_hash": "d8e3b6b0f942b7c3bb61b27c05701c5f",
+    "semantic_hash": "d8e3b6b0f942b7c3bb61b27c05701c5f"
+  },
+  "frontend/src/services/chatService.js": {
+    "mtime": 1781468095.6076694,
+    "ast_hash": "f79ba168e1a9711771f5ad180f26df40",
+    "semantic_hash": "f79ba168e1a9711771f5ad180f26df40"
+  },
+  "frontend/src/services/dashboardService.js": {
+    "mtime": 1781393509.0881572,
+    "ast_hash": "de736152b03e17818951e16c040b8a3d",
+    "semantic_hash": "de736152b03e17818951e16c040b8a3d"
+  },
+  "frontend/src/services/expenseService.js": {
+    "mtime": 1781468659.3239882,
+    "ast_hash": "588cdd52aa1e8f2979d1475e61c416de",
+    "semantic_hash": "588cdd52aa1e8f2979d1475e61c416de"
+  },
+  "frontend/src/services/groupService.js": {
+    "mtime": 1781394361.2164698,
+    "ast_hash": "fe0bbe2a34dd3203c0a4417566b2ba68",
+    "semantic_hash": "fe0bbe2a34dd3203c0a4417566b2ba68"
+  },
+  "frontend/src/services/settlementService.js": {
+    "mtime": 1781463953.1110897,
+    "ast_hash": "8159492db5a250ac97f5789937ef8426",
+    "semantic_hash": "8159492db5a250ac97f5789937ef8426"
+  },
+  "frontend/src/utils/cn.js": {
+    "mtime": 1781388263.0408957,
+    "ast_hash": "05f367ef4c772a56ab0c5fa150bb8c82",
+    "semantic_hash": "05f367ef4c772a56ab0c5fa150bb8c82"
+  },
+  "frontend/src/utils/helpers.js": {
+    "mtime": 1781388261.9509323,
+    "ast_hash": "fca6ea3c236cf06805d5d396ec926530",
+    "semantic_hash": "fca6ea3c236cf06805d5d396ec926530"
+  },
+  "frontend/src/utils/storage.js": {
+    "mtime": 1781392435.413269,
+    "ast_hash": "538a88df26c05e9d31863496a2f76c30",
+    "semantic_hash": "538a88df26c05e9d31863496a2f76c30"
+  },
+  "frontend/src/utils/toast.js": {
+    "mtime": 1781392436.5773406,
+    "ast_hash": "a1cd0a8177cb1ad95159b37d6e5772c5",
+    "semantic_hash": "a1cd0a8177cb1ad95159b37d6e5772c5"
+  },
+  "frontend/src/utils/zodResolver.js": {
+    "mtime": 1781392436.2288947,
+    "ast_hash": "ba06df2bb28f88f6ebe003b97e74026b",
+    "semantic_hash": "ba06df2bb28f88f6ebe003b97e74026b"
+  },
+  "frontend/vercel.json": {
+    "mtime": 1784550884.7790031,
+    "ast_hash": "854af7689869f456e2e4bee84a1b2946",
+    "semantic_hash": "854af7689869f456e2e4bee84a1b2946"
+  },
+  "frontend/vite.config.js": {
+    "mtime": 1781388305.400246,
+    "ast_hash": "2f3d1bd24c006fadd27a0d258637cd9c",
+    "semantic_hash": "2f3d1bd24c006fadd27a0d258637cd9c"
+  }
+}
